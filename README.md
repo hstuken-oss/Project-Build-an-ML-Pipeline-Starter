@@ -49,7 +49,10 @@ cd Project-Build-an-ML-Pipeline-Starter
 Commit and push to the repository often while you make progress towards the solution. Remember 
 to add meaningful commit messages.
 
+###GitHub Repo link:  https://github.com/hstuken-oss/Project-Build-an-ML-Pipeline-Starter.git
+
 ### Create environment
+
 Make sure to have conda installed and ready, then create a new environment using the ``environment.yaml``
 file provided in the root of the repository and activate it:
 
