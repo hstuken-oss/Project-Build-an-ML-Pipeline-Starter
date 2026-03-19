@@ -61,10 +61,10 @@ file provided in the root of the repository and activate it:
 ### Get API key for Weights and Biases
 Let's make sure we are logged in to Weights & Biases. Get your API key from W&B by going to 
 [https://wandb.ai/authorize](https://wandb.ai/authorize) and click on the + icon (copy to clipboard), 
-then paste your key into this command:
+then paste your key into this 
 
 ```bash
-> wandb login [your API key]
+> wandb login [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]
 ```
 
 You should see a message similar to:
